@@ -8,7 +8,6 @@ using Exiled.Events.EventArgs;
 using Interactables.Interobjects;
 using Interactables.Interobjects.DoorUtils;
 using KeycardPermissions = Interactables.Interobjects.DoorUtils.KeycardPermissions;
-using Log = Exiled.API.Features.Log;
 
 namespace CustomDoorAccess
 {
